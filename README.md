@@ -85,10 +85,6 @@ Task management app with full CRUD operations, MVC architecture, and local data 
 
 ![Kunal's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=kunaladhal&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy-winning.vercel.app/?username=kunaladhal&theme=darkhub&no-frame=true&row=1)
-
 ## ✍️ Random Dev Quote
 
 > "First, solve the problem. Then, write the code."
