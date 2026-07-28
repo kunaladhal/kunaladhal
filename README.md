@@ -4,7 +4,7 @@ Hi, I'm Kunal — a Computer Engineering student and Flutter/Mobile App Develope
 
 - 🌱 Currently building **EcoTrack** — a Flutter + Firebase civic complaint management ecosystem (Citizen, Worker & Admin roles)
 - 🚀 Always open to collaborating on Flutter, Firebase, and full-stack mobile projects, hackathons, or research-oriented development
-- 🧠 Learning Deep Learning, High Performance Computing (OpenMP/C++), and scalable app architecture
+- 🧠 Learning Deep Learning and scalable app architecture
 - 💬 Love discussing Bloc/Clean Architecture, Firestore data modeling, and real-time location-based systems (geofencing, auto-assignment)
 
 📩 Feel free to connect with me or just say hi!
