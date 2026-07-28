@@ -77,7 +77,7 @@ Task management app with full CRUD operations, MVC architecture, and local data 
 ![OS](https://img.shields.io/badge/OS-blue?style=for-the-badge)
 ![JVM](https://img.shields.io/badge/JVM-red?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-8E44AD?style=for-the-badge)
-![HPC](https://img.shields.io/badge/HPC-green?style=for-the-badge)
+
 
 ---
 
