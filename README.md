@@ -87,7 +87,7 @@ Task management app with full CRUD operations, MVC architecture, and local data 
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kunaladhal&theme=darkhub&no-frame=true&row=1)
+![trophy](https://github-profile-trophy-winning.vercel.app/?username=kunaladhal&theme=darkhub&no-frame=true&row=1)
 
 ## ✍️ Random Dev Quote
 
